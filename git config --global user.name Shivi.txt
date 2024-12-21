@@ -1,0 +1,4 @@
+git config --global user.name "ShiviSaloni"
+git config --global user.email "salonishivi92@gmail.com"
+git config --global --add safe.directory E:/Saloni/SeleniumTesting
+git status
